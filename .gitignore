@@ -1,0 +1,16 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+data/
+deprecated/
+documentation/
+*.zip
+executables/
+Mietspiegel/
+output/
+output_old/
+*.zip
+*.tar.gz
+*.Rproj
+
